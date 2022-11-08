@@ -1,0 +1,1 @@
+The test results are used to point out bugs that could be causing a problem in a code and alert the programmer to find a way to fix them.
